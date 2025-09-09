@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Game Design<br>🎯 Goals: Make a Game that becomes someone's favorite game<br>🎲 Fun fact: I'm a hardcore fan of JRPGs and MMOs<br><br>For more info, check out my resume: <a href = "https://drive.google.com/file/d/1sBX9gV5a6PiqQn2D6sieJQv_2il7CMU2/view?usp=sharing">Here</a></p>
+<p align="left">✨ Creating bugs since 2017<br>🎯 Goals: Make a Game that becomes someone's favorite game<br>🎲 Fun fact: I'm a hardcore fan of JRPGs and MMOs<br><br>For more info, check out my resume: <a href = "https://drive.google.com/file/d/1sBX9gV5a6PiqQn2D6sieJQv_2il7CMU2/view?usp=sharing">Here</a></p>
 
 ###
 
